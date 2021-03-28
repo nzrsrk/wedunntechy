@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940399582580",
+    "project_id": "wedunntechy",
+    "storage_bucket": "wedunntechy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940399582580:android:e1e434ceb0f7bccabb6021",
+        "android_client_info": {
+          "package_name": "com.wedunntechy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940399582580-p0es70vaugsu5vbtc9io3q18fnuakr2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlOjHlrUxNR_EY_iy_6J4vQAsYI1rz8DE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940399582580-p0es70vaugsu5vbtc9io3q18fnuakr2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
